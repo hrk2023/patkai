@@ -1,0 +1,8 @@
+__pycache__/
+.vscode/
+.env
+patkai.db
+boarders.csv
+.deta/
+venv/
+result.json
